@@ -1,4 +1,4 @@
-AIM:To immplement stack operations using linked list
+AIM:To implement stack operations using linked list
 SOURCE CODE:
 #include <stdio.h>
 #include <stdlib.h>
@@ -127,7 +127,8 @@ int main() {
             case 5:
                 if(isEmpty(top)) {
                     printf("Stack is empty\n");
-                } else {
+                }
+                else {
                     printf("Stack is not empty\n");
                 }
                 break;
