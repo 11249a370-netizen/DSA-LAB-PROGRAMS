@@ -15,7 +15,7 @@ int main()
     {
         scanf("%d",&arr[i]);
     }
-    //input element to search 
+    //input element to search like here venkata
     printf("Enter element to search:");
     scanf("%d",&venkata);
     for(i=0;i<n;i++)
